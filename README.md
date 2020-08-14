@@ -1,5 +1,8 @@
 # alfred-google-search
 
+Inline google search in alfred powered by Python.
+Best for quick lookup on google.
+
 ## Features
 
 1. Inline search of google showing the first page results
@@ -9,13 +12,17 @@
 - Python 3
 - [requests-html](https://github.com/psf/requests-html.git)
 
-  To install requests-html, run this in command line
+To install requests-html, run this in command line
 
-        $ pip3 install requests-html
+```
+pip3 install requests-html
+```
 
-  Or
+Or
 
-        $ pip install requests-html
+```
+pip install requests-html
+```
 
 ## Installations
 
