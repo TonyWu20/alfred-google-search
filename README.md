@@ -6,7 +6,7 @@ Best for quick lookup on google.
 ## Features
 
 1. Inline search of google showing the ~~first page~~ **first five pages** results. (Update on Aug-19 2020)
-2. Async conduction of th searching.
+2. Async conduction of searching.
 
 ## Requirements
 
